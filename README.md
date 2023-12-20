@@ -1,10 +1,10 @@
 # Recipes Web App
 
 ## Screenshots
-![Screenshot 1](./assets/screenshots/screenshot1.png)
-![Screenshot 2](./assets/screenshots/screenshot2.png)
-![Screenshot 3](./assets/screenshots/screenshot3.png)
-![Screenshot 4](./assets/screenshots/screenshot4.png)
+<img src="src/assets/screenshots/screenshot1.png">
+<img src="src/assets/screenshots/screenshot2.png">
+<img src="src/assets/screenshots/screenshot3.png">
+<img src="src/assets/screenshots/screenshot4.png">
 
 # Getting Started with Create React App
 
